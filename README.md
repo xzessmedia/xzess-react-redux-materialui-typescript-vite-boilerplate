@@ -6,13 +6,13 @@ Powered by Typescript, React, Redux, MaterialUI and Vite
 
 
 ## How to bootstrap new Project
-- Bare Clone repository like this `git clone https://github.com/xzessmedia/xzess-react-redux-materialui-typescript-boilerplate.git --bare <projectname>`
+- Bare Clone repository like this `git clone https://github.com/xzessmedia/xzess-react-redux-materialui-typescript-vite-boilerplate.git --bare <projectname>`
 - Create a new git repository and then push it like this `git push --mirror <your_new_repo_url_here>`
 - Delete the local repository
 - Clone your new copy `git clone <your_new_repo_url_here>`
-- Add Upstream with `git remote add upstream https://github.com/xzessmedia/xzess-react-redux-materialui-typescript-boilerplate.git` and `git remote set-url --push upstream DISABLE`
+- Add Upstream with `git remote add upstream https://github.com/xzessmedia/xzess-react-redux-materialui-typescript-vite-boilerplate.git` and `git remote set-url --push upstream DISABLE`
 
-## Update the latest xRMMTB
+## Update the latest xRMMTVB
 When you develop your Frontend it can happen that xRMMTB has been updated
 Then you want to get the latest update to your project by
 
